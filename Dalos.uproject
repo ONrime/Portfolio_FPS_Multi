@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{226E31EA-4D34-C8A7-205A-32BBB3B05024}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Dalos",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
