@@ -5,16 +5,16 @@
 ### UnrealEngine ###
 
 # Content
-Content/BallisticsVFX/*/**
-Content/FPS_Weapon_Bundle/*/**
-Content/IBWP3DPolicePistol/*/**
-Content/IBWP3DXM82/*/**
-Content/Sci-FiSoundPack/*/**
-Content/StarterContent/*/**
+Content/BallisticsVFX/
+Content/FPS_Weapon_Bundle/
+Content/IBWP3DPolicePistol/
+Content/IBWP3DXM82/
+Content/Sci-FiSoundPack/
+Content/StarterContent/
 
-Content/Player/Sound/*/**
-Content/Player/Anim/Arm/*/**
-Content/Player/Anim/Body/*/**
+Content/Player/Sound/
+Content/Player/Anim/Arm/
+Content/Player/Anim/Body/
 
 # Visual Studio 2015 user specific files
 .vs/
